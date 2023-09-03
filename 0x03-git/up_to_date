@@ -1,1 +1,1 @@
-My first readme
+Only time to commit using GItHub
